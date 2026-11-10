@@ -5,7 +5,7 @@ from threading import Thread
 import time
 
 # --- НАСТРОЙКИ ---
-TOKEN = 'ТВОЙ_ТОКЕН_ОТ_BOTFATHER'
+TOKEN = '9100861225:AAFd7xuterk0JVfupRT2JpSbm0Dg87752pE'
 bot = telebot.TeleBot(TOKEN)
 
 # --- СЛОВАРЬ ПЛАТФОРМ (URL для проверки) ---
